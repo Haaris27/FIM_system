@@ -35,7 +35,7 @@ npm or yarn
 
 
 # Backend Setup
-git clone https://github.com/yourusername/FIM_system.git
+git clone https://github.com/Haaris27/FIM_system.git
 cd FIM_system
 
 
@@ -52,8 +52,7 @@ Edit configuration files as needed
 
 
 # Frontend Setup
-
-# Navigate to the frontend directory
+Navigate to the frontend directory
 cd frontend
 
 # Install dependencies
