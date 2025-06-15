@@ -1,0 +1,13 @@
+{
+    "directories_to_monitor": [
+        ""
+    ],
+    "email_config": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender_email": "",
+        "sender_password": "",
+        "recipient_email": ""
+    },
+    "scan_interval": 120
+}

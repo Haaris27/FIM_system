@@ -1,0 +1,3 @@
+http://localhost:5000/api/stats
+http://localhost:5000/api/files
+http://localhost:5000/api/alerts
